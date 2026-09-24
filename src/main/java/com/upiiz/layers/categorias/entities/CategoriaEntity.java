@@ -4,7 +4,7 @@ import jakarta.persistence.*;
 
 // Capa de Base de Datos - ORM
 @Entity
-@Table(name = "categoria")
+@Table(name = "layers_categoria")
 public class CategoriaEntity {
 
     @Id
